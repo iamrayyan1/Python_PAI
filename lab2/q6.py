@@ -10,6 +10,6 @@ def multiply(numbers):
     return multiple
 
 
-example_list = [2, 3, 4, 5]
-result = multiply(example_list)
+array = [1,3,5,7]
+result = multiply(array)
 print(f"The product of all numbers in the list is: {result}")
