@@ -1,2 +1,2 @@
-hello rija.
-how are you rija?
+hello world.
+how are you world?
