@@ -1,0 +1,5 @@
+Name: rija
+CNIC Number: 565656
+Age: 19
+Salary: 5600000.0
+Contact Number: 4994859485
