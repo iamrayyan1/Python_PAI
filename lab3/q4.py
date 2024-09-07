@@ -1,3 +1,11 @@
+
+# Take biodata of employee from user as Name, cnic number, age, and salary save it in txt
+# file. Now append this file to add contact number. Finally read this file. Handle all possible
+# exceptions as well.
+
+# Name: Rija Ali
+# ID: 23k-0057
+
 def employee_biodata():
     try:
         name = input("Enter employee name: ")
@@ -54,7 +62,7 @@ def read_file(filename):
 
 
 def main():
-    filename = 'biodata.txt'
+    filename = 'q4.txt'
 
     # Collect biodata from the user
     biodata = employee_biodata()
