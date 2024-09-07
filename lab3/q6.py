@@ -1,13 +1,19 @@
+# Create a function that asks the user to enter a sentence then writes the sentence to a text file
+# named "questions.txt" if it's a question. Handle all possible exceptions as well.
+
+# Name: Rija Ali
+# ID: 23k-0057
+
 def question_to_file(filename):
 
     try:
 
-        sentence = input("Enter a sentence: ").strip()
+        sen = input("Enter a sentence: ").strip()
 
-        # Check if the sentence is a question
-        if sentence.endswith('?'):
+        # Checking if the sentence is a question
+        if sen.endswith('?'):
             with open(filename, 'w') as file:
-                file.write(sentence + '\n')
+                file.write(sen + '\n')
             print(f"The sentence has been written to '{filename}'.")
         else:
             print("The sentence is not a question. It will not be saved.")
