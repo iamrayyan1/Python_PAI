@@ -1,2 +1,3 @@
+//txt file is copied after running the code so "rija" has been replaced with "world" here.
 hello world.
 how are you world?
