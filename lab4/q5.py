@@ -25,19 +25,19 @@ class restaurant:
         print("\n-----Menu-----")
         for item,price in self.menu_items.items(): 
             print(f"{item},{price}")
-        print("-----end-----\n")
+        
         
     def print_table_reservations(self):
         print("\n---table reservations---")
         for table in self.book_table:
             print(f"table {table} is reserved")
-        print("-----------------------")
+      
     
     def print_customer_order(self):
         print("\n---customer order---")
         for customer, orders in self.customer_orders.items():
             print(f"{customer} ordered: {orders}")
-        print("--------------------")
+        
         
 
 xanders = restaurant() 
