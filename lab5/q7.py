@@ -12,7 +12,7 @@ def extract(text):
 text = """
 Hello, you can reach out to me at rrija.fast@example.com or ali.rija123@domain.co.uk.
 For further inquiries, contact fast@company.com or nuces@business.org. 
-Invalid email formats like user@com, someone@.com will not be extracted.
+emails like someone@.com will not be extracted.
 """
 
 emails = extract(text)
