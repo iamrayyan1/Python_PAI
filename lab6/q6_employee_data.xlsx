@@ -1,0 +1,401 @@
+Employee	Location	Sex	Salary	Date Hired	Exempt		
+Krista Orcutt	Pennsylvania	Female	54,176	10/22/91	FALSE		
+Cora Soto	Massachusetts	Female	58,120	1/15/92	TRUE		
+James Millen	Washington	Male	26,135	5/25/92	FALSE		
+Tara Applewhite	California	Female	80,274	5/30/92	TRUE		
+Devin Lear	Massachusetts	Male	43,532	6/29/92	FALSE		
+Lucile Sexton	Washington	Female	68,637	7/18/92	TRUE		
+Jarrod Faith	California	Male	53,478	8/21/92	FALSE		
+Terry Gross	Massachusetts	Male	64,497	9/19/92	TRUE		
+Jim Martin	Pennsylvania	Male	32,433	10/7/92	FALSE		
+Kathy Weatherby	California	Female	23,464	10/7/92	FALSE		
+Nancy Garcia	Pennsylvania	Female	54,145	11/15/92	FALSE		
+Joel Thomas	New York	Male	63,248	12/24/92	TRUE		
+Alan Ruley	California	Male	57,445	1/4/93	TRUE		
+Jose D. Skaggs	Arizona	Male	54,778	2/12/93	FALSE		
+Richard L. Anderson	Arizona	Male	68,548	2/24/93	TRUE		
+Dustin Tate	Pennsylvania	Male	58,960	3/4/93	TRUE		
+Eddie Mangual	California	Male	23,810	3/6/93	FALSE		
+Kimberly Vos	Massachusetts	Female	57,568	3/18/93	TRUE		
+Eric V. White	Pennsylvania	Male	35,177	4/7/93	FALSE		
+Beverly Escobar	Pennsylvania	Female	63,680	5/25/93	TRUE		
+Richard Guard	Massachusetts	Male	60,587	5/28/93	TRUE		
+Michael Atwood	California	Male	64,411	7/13/93	TRUE		
+Jennifer D. Heath	New York	Female	23,739	8/6/93	FALSE		
+Otis Ballenger	New York	Male	42,638	8/8/93	FALSE		
+Reina Shuffler	California	Female	66,224	8/21/93	TRUE		
+Steven H. Katz	Pennsylvania	Male	80,094	9/24/93	TRUE		
+Raymond Kruger	New York	Male	52,925	9/29/93	FALSE		
+Gregory Steiger	California	Male	57,438	9/29/93	TRUE		
+PhyllisTodd	Massachusetts	Female	23,142	10/24/93	FALSE		
+Alec Dunbar	California	Male	45,996	10/29/93	FALSE		
+Janet D. Donegan	New York	Female	63,407	1/18/94	TRUE		
+Renae Burns	California	Female	29,561	1/28/94	FALSE		
+James Millen	Pennsylvania	Male	59,742	2/5/94	TRUE		
+Ethel Sexton	Massachusetts	Female	63,519	2/22/94	TRUE		
+Amos Bowes	New York	Male	83,049	4/23/94	TRUE		
+Amy Fetter	Massachusetts	Female	23,778	5/27/94	FALSE		
+Bennie Evans	Washington	Male	67,839	6/3/94	TRUE		
+Dustin Myres	Pennsylvania	Male	41,788	6/3/94	FALSE		
+Jeff Ryan	New York	Male	81,380	6/13/94	TRUE		
+Whitney Johnson	New York	Female	50,832	8/29/94	FALSE		
+Clark Bickerson	California	Male	46,272	8/31/94	FALSE		
+Carol Wood	Massachusetts	Female	38,660	9/8/94	FALSE		
+Christine Poundsworth	Massachusetts	Female	30,225	10/3/94	FALSE		
+Walter Thompson	California	Male	29,466	10/3/94	FALSE		
+Randy Pruitt	Washington	Male	40,321	10/22/94	FALSE		
+Karyn Hernandez	Massachusetts	Female	67,208	10/25/94	TRUE		
+Cynthia Beard	California	Female	61,123	11/8/94	TRUE		
+Brenda White	California	Female	79,004	11/11/94	TRUE		
+James Deluna	Washington	Male	24,249	11/20/94	FALSE		
+Marie Doyle	New York	Female	21,611	1/16/95	FALSE		
+Raymond Cyr	Pennsylvania	Male	79,366	1/23/95	TRUE		
+Rosemary Vaughn	New York	Female	55,963	2/1/95	TRUE		
+Donald Jackson	California	Male	25,263	2/20/95	FALSE		
+Lisa Golden	New York	Female	82,910	3/4/95	TRUE		
+Debbie Barlow	California	Female	41,530	5/12/95	FALSE		-30000
+Brandy Walker	Washington	Female	61,685	5/20/95	TRUE		
+Charles S. Billings	Pennsylvania	Male	59,798	5/29/95	TRUE		
+Janet Woodson	Arizona	Female	56,428	7/2/95	TRUE		
+Clark Bickerson	New York	Male	41,179	8/14/95	FALSE		
+Ruth Roberts	Arizona	Female	31,017	8/19/95	FALSE		
+Shirley Henderson	Massachusetts	Female	44,550	8/28/95	FALSE		
+David B. Ortiz	Massachusetts	Male	20,558	9/4/95	FALSE		
+Micheal Belt	Massachusetts	Male	20,043	9/8/95	FALSE		
+Kevin Whited	Massachusetts	Male	66,459	9/13/95	TRUE		
+Rosa Johnson	Massachusetts	Female	84,084	10/5/95	TRUE		
+Sylvia Saenz	New York	Female	44,430	10/17/95	FALSE		
+Bruce Burke	Pennsylvania	Male	41,281	12/5/95	FALSE		
+Steven Yarbrough	Massachusetts	Male	40,883	12/14/95	FALSE		
+Maria Silva	Washington	Female	61,080	12/20/95	TRUE		
+Sherrie Landry	Pennsylvania	Female	50,429	1/11/96	FALSE		
+Jesus Farrington	New York	Male	33,678	3/12/96	FALSE		
+Glenda Phillips	New York	Female	57,281	3/17/96	TRUE		
+Robert Farmer	California	Male	30,687	4/12/96	FALSE		
+Sam Axtell	Washington	Male	40,531	4/15/96	FALSE		
+Kristin Beaton	Pennsylvania	Female	47,464	4/17/96	FALSE		
+Lori Q. Waters	Massachusetts	Female	42,607	5/11/96	FALSE		
+Shirley Miller	Massachusetts	Female	61,112	6/14/96	TRUE		
+Dianne Wong	New York	Female	46,780	6/17/96	FALSE		
+Cheryl Cory	California	Female	84,455	6/20/96	TRUE		
+Kevin Grant	New York	Male	27,325	6/24/96	FALSE		
+Stephen C. Carter	Massachusetts	Male	35,136	7/6/96	FALSE		
+Elsie Haines	New York	Female	84,776	7/14/96	TRUE		
+Elinor Love	California	Female	46,104	7/29/96	FALSE		
+Goldie Almond	Massachusetts	Female	21,326	8/1/96	FALSE		
+Pat Fisher	Pennsylvania	Male	45,071	8/26/96	FALSE		
+Goldie Lahr	California	Female	44,833	10/31/96	FALSE		
+Alan Hudson	New York	Male	24,970	11/7/96	FALSE		
+Dennis R. Waxman	California	Male	29,560	11/10/96	FALSE		
+Curtis Miller	Arizona	Male	23,401	11/24/96	FALSE		
+Jeffrey Ritter	Pennsylvania	Male	47,014	12/20/96	FALSE		
+Vada Mcintosh	California	Female	56,377	1/24/97	TRUE		
+Christine Poundsworth	New York	Female	42,923	3/15/97	FALSE		
+PhyllisTodd	Massachusetts	Female	49,344	3/29/97	FALSE		
+Steven H. Katz	California	Male	69,978	4/7/97	TRUE		
+Erica Gentile	Massachusetts	Female	39,055	4/15/97	FALSE		
+Roy Lindsey	California	Male	26,009	4/21/97	FALSE		
+Janice Reynolds	New York	Female	44,145	4/24/97	FALSE		
+Josh Chiu	Massachusetts	Male	48,634	7/4/97	FALSE		
+Francine H. Dundas	Washington	Female	23,279	7/13/97	FALSE		
+Anthony Taylor	Washington	Male	81,806	8/8/97	TRUE		
+Ruby Smith	California	Female	26,295	9/22/97	FALSE		
+Deborah Sherman	California	Female	67,688	9/24/97	TRUE		
+Bryan Demarco	Pennsylvania	Male	20,914	10/10/97	FALSE		
+Robert Ballard	Massachusetts	Male	21,379	10/10/97	FALSE		
+Booker Dunmire	New York	Male	61,952	11/11/97	TRUE		
+Clark Bickerson	Washington	Male	32,303	1/6/98	FALSE		
+Douglas Williams	Washington	Male	80,465	1/24/98	TRUE		
+Betty Myers	New York	Female	57,710	1/27/98	TRUE		
+Geoffrey Dant	Massachusetts	Male	47,220	4/5/98	FALSE		
+Ashley Miller	New York	Female	20,099	4/6/98	FALSE		
+Fred Dickison	California	Male	46,980	5/9/98	FALSE		
+Peggy Craig	Arizona	Female	20,019	5/18/98	FALSE		
+Ethel Blaylock	New York	Female	79,385	6/25/98	TRUE		
+Guillermo W. Phillips	California	Male	59,797	7/1/98	TRUE		
+Barbara Roark	California	Female	59,204	7/18/98	TRUE		
+Robert H. Miller	Washington	Male	47,877	8/5/98	FALSE		
+Stephen C. Carter	Washington	Male	46,921	8/22/98	FALSE		
+Lois Mcwilliams	New York	Female	29,927	9/9/98	FALSE		
+Irene Schreiber	California	Female	22,398	10/1/98	FALSE		
+Royce Gilbert	Massachusetts	Male	55,700	10/3/98	TRUE		
+Arthur Clayson	Massachusetts	Male	49,647	10/29/98	FALSE		
+Jeffrey P. Jones	Massachusetts	Male	39,145	10/30/98	FALSE		
+Michael Hayden	California	Male	40,390	11/9/98	FALSE		
+Korey Davis	Pennsylvania	Male	51,243	11/10/98	FALSE		
+Charles S. Billings	Massachusetts	Male	51,723	11/12/98	FALSE		
+Joseph Christensen	Massachusetts	Male	21,607	2/13/99	FALSE		
+Jeffrey Sharp	New York	Male	78,789	3/4/99	TRUE		
+James Millen	Washington	Male	78,753	3/14/99	TRUE		
+Danny Salinas	California	Male	30,330	3/22/99	FALSE		
+Kurt Kamichoff	California	Male	79,120	3/28/99	TRUE		
+Jason J. Marshall	New York	Male	36,877	4/5/99	FALSE		
+Robert Nipper	Washington	Male	24,275	5/10/99	FALSE		
+Connie Combs	New York	Female	71,166	5/22/99	TRUE		
+Jeffrey P. Jones	New York	Male	27,431	6/8/99	FALSE		
+Marina W. Fuller	New York	Female	47,684	7/13/99	FALSE		
+Juan Law	Massachusetts	Male	82,657	7/17/99	TRUE		
+Joel Maser	California	Male	35,498	7/23/99	FALSE		
+Christian Reynolds	Massachusetts	Male	41,209	8/17/99	FALSE		
+Jeffrey Vaughn	Massachusetts	Male	41,400	9/7/99	FALSE		
+Barbara Stolz	California	Female	47,154	9/22/99	FALSE		
+Katherine J. Smith	Massachusetts	Female	56,911	10/3/99	TRUE		
+Esther Rice	Massachusetts	Female	61,254	10/15/99	TRUE		
+David Adam	California	Male	49,172	10/20/99	FALSE		
+Manuel Cannon	Massachusetts	Male	67,193	10/31/99	TRUE		
+Jodie Crowley	Massachusetts	Female	41,492	11/11/99	FALSE		
+Rodney Sharpe	Massachusetts	Male	82,751	12/15/99	TRUE		
+Janet Stewart	California	Female	55,464	12/27/99	TRUE		
+Willie Paris	New York	Female	38,514	1/22/00	FALSE		
+Richard Curtis	Massachusetts	Male	44,297	2/14/00	FALSE		
+Rae Walton	Washington	Female	48,368	2/28/00	FALSE		
+Salvatore Henderson	California	Male	26,453	4/14/00	FALSE		
+Leah Clancy	Massachusetts	Female	28,508	4/27/00	FALSE		
+Tomasa Speer	California	Female	66,617	5/4/00	TRUE		
+Michael Hayden	California	Male	43,757	5/25/00	FALSE		
+Earnest Hale	New York	Male	21,009	5/29/00	FALSE		
+Enid Gilbert	New York	Female	82,384	6/3/00	TRUE		
+Robert Alexander	Arizona	Male	43,718	6/19/00	FALSE		
+Jeffrey P. Jones	California	Male	22,217	6/23/00	FALSE		
+Steven H. Katz	Pennsylvania	Male	77,918	6/25/00	TRUE		
+George Elmore	Washington	Male	50,906	10/3/00	FALSE		
+Nicholas Trejo	Pennsylvania	Male	64,934	10/25/00	TRUE		
+Kenneth Credle	California	Male	31,251	11/5/00	FALSE		
+Ray Bortz	California	Male	61,858	11/27/00	TRUE		
+Kurt Kamichoff	New York	Male	62,479	11/29/00	TRUE		
+Christopher Hudson	Pennsylvania	Male	38,962	12/7/00	FALSE		
+Linda Boston	Massachusetts	Female	79,392	12/10/00	TRUE		
+Cassandra Jackson	Arizona	Female	82,174	12/12/00	TRUE		
+Sharon Henry	California	Female	62,867	12/24/00	TRUE		
+Sandra Cotta	Massachusetts	Female	37,867	1/5/01	FALSE		
+Oscar Lee	Massachusetts	Male	52,464	2/6/01	FALSE		
+Jason Joseph	Massachusetts	Male	56,649	2/7/01	TRUE		
+Nadine Blankenship	New York	Female	63,392	2/21/01	TRUE		
+Sean Grantham	California	Male	62,649	3/1/01	TRUE		
+PhyllisTodd	Pennsylvania	Female	42,278	3/15/01	FALSE		
+Erica Marshall	Pennsylvania	Female	53,426	4/23/01	FALSE		
+Clarissa Christiansen	California	Female	58,039	4/24/01	TRUE		
+Jillian Koster	Massachusetts	Female	71,016	6/19/01	TRUE		
+Micheal Chadwick	California	Male	70,361	7/9/01	TRUE		
+Charles Bingham	California	Male	25,095	7/27/01	FALSE		
+Susan Morgan	Pennsylvania	Female	27,734	8/9/01	FALSE		
+Stephanie Hill	Massachusetts	Female	44,249	8/18/01	FALSE		
+Cheryl Gaymon	California	Female	39,738	8/21/01	FALSE		
+Patrick Angell	California	Male	36,822	9/30/01	FALSE		
+Melvin Jordan	Washington	Male	48,041	10/17/01	FALSE		
+Stephen C. Carter	Arizona	Male	35,470	11/10/01	FALSE		
+Kimberly Barefoot	California	Female	41,004	1/13/02	FALSE		
+Rick Fogerty	Washington	Male	79,042	1/26/02	TRUE		
+Jodie Tindall	Massachusetts	Female	60,509	4/7/02	TRUE		
+Paul Carlson	California	Male	82,155	4/29/02	TRUE		
+John T. Foster	Massachusetts	Male	78,831	4/30/02	TRUE		
+Robert Cipriani	Massachusetts	Male	59,780	5/15/02	TRUE		
+Martha Welborn	Washington	Female	51,906	5/16/02	FALSE		
+Carly Iorio	Massachusetts	Female	22,856	5/28/02	FALSE		
+Donna Couch	California	Female	44,730	6/3/02	FALSE		
+Jeff Brooks	New York	Male	41,545	6/20/02	FALSE		
+Joseph Oliveros	Arizona	Male	78,235	7/15/02	TRUE		
+Douglas Williams	California	Male	54,713	7/15/02	FALSE		
+Elise Bedgood	California	Female	53,316	7/19/02	FALSE		
+Tasha Williams	Massachusetts	Female	82,818	8/12/02	TRUE		
+Diane Mcmahon	Massachusetts	Female	41,836	10/9/02	FALSE		
+Alphonso F. Gordon	Washington	Male	79,458	10/9/02	TRUE		
+Janie Little	Massachusetts	Female	23,510	10/20/02	FALSE		
+Robert Pelkey	Massachusetts	Male	41,765	10/22/02	FALSE		
+Betsy D. Kelly	New York	Female	20,754	11/7/02	FALSE		
+Janet Silberstein	New York	Female	59,603	12/3/02	TRUE		
+Jason Sullivan	Arizona	Male	28,126	12/14/02	FALSE		
+Merlin Owens	New York	Male	60,298	12/16/02	TRUE		
+Richard E. Card	California	Male	33,639	1/9/03	FALSE		
+Pearl Lippert	Pennsylvania	Female	62,260	1/20/03	TRUE		
+Christopher Huff	Washington	Male	43,733	2/11/03	FALSE		
+John T. Foster	Massachusetts	Male	42,948	4/27/03	FALSE		
+Rick Fogerty	New York	Male	49,368	5/5/03	FALSE		
+Mary G. Brittain	Pennsylvania	Female	49,857	5/27/03	FALSE		
+Michael Lindsey	California	Male	66,924	5/29/03	TRUE		
+Gary Harrison	New York	Male	20,902	6/2/03	FALSE		
+Susan Orosco	California	Female	71,050	6/13/03	TRUE		
+Daniel Sandy	California	Male	33,169	6/14/03	FALSE		
+Charles S. Billings	Pennsylvania	Male	42,637	6/20/03	FALSE		
+Kevin E. Wishart	Massachusetts	Male	46,220	6/25/03	FALSE		
+David Arellano	California	Male	83,638	7/12/03	TRUE		
+John T. Foster	California	Male	45,346	9/25/03	FALSE		
+Tom Brown	California	Male	57,904	11/13/03	TRUE		
+Marcus Eoff	California	Male	50,291	11/13/03	FALSE		
+Thomas E. Abbott	Washington	Male	43,051	2/21/04	FALSE		
+Dawne Thompson	Massachusetts	Female	83,472	4/2/04	TRUE		
+Steven Cervantez	Arizona	Male	44,279	7/21/04	FALSE		
+Rachel Armstrong	California	Female	28,790	9/6/04	FALSE		
+Christopher J. Polzin	California	Male	65,386	9/22/04	TRUE		
+Virginia Okeefe	California	Female	62,693	9/28/04	TRUE		
+Roy Hilliker	Pennsylvania	Male	84,363	10/16/04	TRUE		
+Margaret Clark	New York	Female	69,109	12/14/04	TRUE		
+Kendal Alford	Washington	Female	61,713	12/22/04	TRUE		
+Anthony Guyette	California	Male	49,073	1/27/05	FALSE		
+Clarice Longenecker	Pennsylvania	Female	32,339	2/5/05	FALSE		
+John Edwards	Pennsylvania	Male	41,773	2/6/05	FALSE		
+Keith Bennett	California	Male	45,250	3/28/05	FALSE		
+Thomas Feather	California	Male	47,145	4/17/05	FALSE		
+Jessica Aten	New York	Female	55,100	6/22/05	TRUE		
+Brandon Cutter	Pennsylvania	Male	34,578	7/11/05	FALSE		
+Gerald Castro	California	Male	23,292	8/13/05	FALSE		
+John Ohara	Massachusetts	Male	23,424	8/15/05	FALSE		
+Anthony Taylor	Massachusetts	Male	24,919	9/18/05	FALSE		
+Fred Martin	California	Male	50,489	10/1/05	FALSE		
+Jamie Stowe	Pennsylvania	Female	44,586	11/19/05	FALSE		
+Arthur Williams	Pennsylvania	Male	59,546	12/7/05	TRUE		
+Stella Larue	Massachusetts	Female	57,949	12/11/05	TRUE		
+Charles Head	New York	Male	20,225	12/19/05	FALSE		
+Marc Weaver	California	Male	58,983	2/6/06	TRUE		
+Sarah Silva	New York	Female	65,453	2/24/06	TRUE		
+Linda Perez	New York	Female	31,550	2/24/06	FALSE		
+Kendra Weber	Massachusetts	Female	81,560	3/17/06	TRUE		
+Janet Silberstein	California	Female	47,655	3/27/06	FALSE		
+Michelle French	California	Female	52,862	4/2/06	FALSE		
+Alma Cruz	New York	Female	57,127	4/8/06	TRUE		
+Rochelle Quick	New York	Female	25,657	5/1/06	FALSE		
+Ruth Peel	New York	Female	51,786	5/7/06	FALSE		
+Lowell Harrison	California	Male	24,925	6/30/06	FALSE		
+Thomas E. Abbott	Washington	Male	36,493	7/17/06	FALSE		
+Joan Morrison	Arizona	Female	32,055	7/23/06	FALSE		
+Sherry F. Bennett	New York	Female	27,441	7/26/06	FALSE		
+Evelyn Mcmurry	Washington	Female	62,703	8/13/06	TRUE		
+Scott Yeldell	New York	Male	33,362	8/30/06	FALSE		
+Laura Wood	New York	Female	77,951	9/6/06	TRUE		
+Jeffrey Jones	Washington	Male	34,804	9/20/06	FALSE		
+Tammy Baker	New York	Female	39,935	9/26/06	FALSE		
+Caleb Ham	California	Male	82,480	10/12/06	TRUE		
+Alice J. Guerra	Washington	Female	64,106	10/16/06	TRUE		
+Dorothy Herrera	New York	Female	82,513	10/22/06	TRUE		
+Jean Rose	Massachusetts	Female	51,279	11/10/06	FALSE		
+Rodney Guerra	New York	Male	81,075	12/8/06	TRUE		
+Kelly J. Sousa	California	Female	39,512	1/12/07	FALSE		
+Emily Jorden	Pennsylvania	Female	38,675	1/29/07	FALSE		
+Zenaida Jeon	California	Female	32,757	2/3/07	FALSE		
+Shirley Hill	Washington	Female	38,314	3/1/07	FALSE		
+Richard E. Card	Pennsylvania	Male	56,561	3/20/07	TRUE		
+Anthony Gary	Arizona	Male	45,722	4/3/07	FALSE		
+Sheila Wigfall	California	Female	39,712	4/9/07	FALSE		
+Roy Greene	New York	Male	65,553	4/17/07	TRUE		
+David Pearce	Pennsylvania	Male	84,178	5/7/07	TRUE		
+Elidia Bode	New York	Female	27,408	5/11/07	FALSE		
+Tom Brown	Massachusetts	Male	24,167	6/25/07	FALSE		
+Lawrence Friedrich	Washington	Male	43,957	7/31/07	FALSE		
+Thomas H. Metz	Massachusetts	Male	84,582	8/8/07	TRUE		
+Penny Philbrick	California	Female	21,359	9/27/07	FALSE		
+Dawn Purvis	New York	Female	23,360	10/18/07	FALSE		
+Gregg Rhoades	Pennsylvania	Male	60,586	11/2/07	TRUE		
+Jeffrey Walters	Washington	Male	45,044	11/26/07	FALSE		
+Allison Mcewen	Massachusetts	Female	42,415	12/15/07	FALSE		
+Tom Brown	Arizona	Male	30,714	1/29/08	FALSE		
+Alfred Glenn	New York	Male	55,569	3/13/08	TRUE		
+Jonas Green	California	Male	44,840	3/16/08	FALSE		
+David Keller	Massachusetts	Male	53,968	3/22/08	FALSE		
+Jerry Olivo	California	Male	27,164	3/26/08	FALSE		
+Corinna Beltran	Washington	Female	26,541	4/13/08	FALSE		
+Lewis Liptak	Arizona	Male	62,563	4/15/08	TRUE		
+Nicholas N. Cagle	Massachusetts	Male	52,767	4/24/08	FALSE		
+Raymond Oneal	New York	Male	63,860	5/3/08	TRUE		
+Michelle Noonan	Massachusetts	Female	46,337	5/6/08	FALSE		
+Michael Hayden	California	Male	81,882	5/9/08	TRUE		
+Ronald Warren	Pennsylvania	Male	79,878	5/11/08	TRUE		
+Gregory Sperber	California	Male	20,806	5/15/08	FALSE		
+Judith Graham	California	Female	30,064	6/8/08	FALSE		
+Daniel Desantis	Massachusetts	Male	30,542	6/26/08	FALSE		
+Annie Chaidez	New York	Female	46,916	7/1/08	FALSE		
+Al Grubbs	California	Male	49,268	7/3/08	FALSE		
+Joan Morrison	Massachusetts	Female	66,025	8/12/08	TRUE		
+Rosemary O. Richards	New York	Female	44,792	8/18/08	FALSE		
+Jamie Banks	Massachusetts	Female	79,453	8/27/08	TRUE		
+Humberto Hoosier	Washington	Male	58,013	8/30/08	TRUE		
+Donna Wallace	Pennsylvania	Female	36,300	9/9/08	FALSE		
+Ricky Penman	Massachusetts	Male	47,967	9/12/08	FALSE		
+Melinda Stokes	New York	Female	39,077	10/4/08	FALSE		
+Rick Fogerty	Washington	Male	33,252	11/2/08	FALSE		
+Robert H. Miller	California	Male	42,948	11/8/08	FALSE		
+Teresa Allen	California	Female	21,013	11/9/08	FALSE		
+Janet Silberstein	New York	Female	43,773	12/5/08	FALSE		
+Richard E. Card	Arizona	Male	68,173	12/24/08	TRUE		
+Christian Moye	New York	Male	40,706	1/3/09	FALSE		
+David Hare	New York	Male	47,555	1/16/09	FALSE		
+Kellie Witherspoon	Washington	Female	47,612	2/1/09	FALSE		
+Olive Arsenault	California	Female	35,582	4/9/09	FALSE		
+Gloria Brown	California	Female	64,375	5/17/09	TRUE		
+Fred Moua	New York	Male	36,069	5/29/09	FALSE		
+Brandi Reynolds	California	Female	52,446	6/10/09	FALSE		
+Audrey Vogel	Massachusetts	Female	44,884	7/16/09	FALSE		
+John Clarke	California	Male	43,465	8/4/09	FALSE		
+Ronald Rouse	Massachusetts	Male	80,393	8/22/09	TRUE		
+Loretta Alvarez	California	Female	20,244	8/26/09	FALSE		
+Jesus Gascon	Washington	Male	44,855	9/22/09	FALSE		
+Diane Delgado	Pennsylvania	Female	24,807	10/3/09	FALSE		
+Sandra Clarke	Pennsylvania	Female	43,873	10/14/09	FALSE		
+Amy Majors	Massachusetts	Female	67,491	10/29/09	TRUE		
+Beverly B. Gray	New York	Female	52,738	12/2/09	FALSE		
+Carl Dexter	New York	Male	52,910	12/19/09	FALSE		
+Howard Keach	California	Male	78,556	12/19/09	TRUE		
+Charles Seeley	Massachusetts	Male	34,523	1/4/10	FALSE		
+Bob Hunsberger	Pennsylvania	Male	24,382	1/13/10	FALSE		
+Beverly Soares	Massachusetts	Female	43,522	1/16/10	FALSE		
+Sarah Parks	New York	Female	46,474	1/26/10	FALSE		
+Cristobal Lopez	Pennsylvania	Male	46,825	1/27/10	FALSE		
+Susan Sikes	California	Female	80,268	3/1/10	TRUE		
+Pedro H. Nicholson	Arizona	Male	60,531	3/14/10	TRUE		
+William N. Campbell	New York	Male	79,263	3/25/10	TRUE		
+Hosea Pierson	New York	Male	70,308	3/28/10	TRUE		
+Chase Mcnamara	New York	Male	23,933	4/8/10	FALSE		
+Gary Lees	New York	Male	83,623	4/29/10	TRUE		
+Douglas Williams	Arizona	Male	62,690	5/7/10	TRUE		
+Kelly Dollinger	Massachusetts	Female	43,409	5/11/10	FALSE		
+Clinton Soto	New York	Male	46,270	5/20/10	FALSE		
+Clint Suarez	California	Male	48,868	5/27/10	FALSE		
+Cindy Chow	New York	Female	83,054	6/28/10	TRUE		
+Linda Carbajal	Massachusetts	Female	35,725	7/1/10	FALSE		
+Joan Morrison	Massachusetts	Female	83,972	7/31/10	TRUE		
+Kurt Kamichoff	New York	Male	66,514	8/8/10	TRUE		
+Kurt Decker	Washington	Male	77,867	10/4/10	TRUE		
+Cynthia Naskers	Pennsylvania	Female	46,498	10/4/10	FALSE		
+Christine Poundsworth	California	Female	46,935	10/5/10	FALSE		
+Arthur Werner	California	Male	83,619	10/22/10	TRUE		
+Kenneth Williams	California	Male	69,388	10/24/10	TRUE		
+Joyce Cotton	California	Female	21,235	12/6/10	FALSE		
+Irving Kim	Massachusetts	Male	51,647	12/12/10	FALSE		
+Elsie Truong	New York	Female	47,813	12/26/10	FALSE		
+Anne Boyd	New York	Female	25,654	1/2/11	FALSE		
+Edward Bryant	California	Male	28,849	1/4/11	FALSE		
+Carrie Bryan	New York	Female	33,084	2/23/11	FALSE		
+Miranda Bassett	New York	Female	52,426	2/26/11	FALSE		
+Matthew Silvia	Pennsylvania	Male	39,341	3/3/11	FALSE		
+Brian Bass	Massachusetts	Male	66,145	3/25/11	TRUE		
+Anthony Taylor	Pennsylvania	Male	64,907	5/10/11	TRUE		
+Sharon Pineda	Washington	Female	40,153	5/16/11	FALSE		
+Jason Hadlock	Washington	Male	83,000	7/31/11	TRUE		
+Jan Jones	Massachusetts	Male	46,304	8/8/11	FALSE		
+Scott Palen	California	Male	40,576	8/21/11	FALSE		
+Karen Coles	California	Female	55,231	8/26/11	TRUE		
+Elmer Tompkins	Massachusetts	Male	23,233	8/30/11	FALSE		
+Roland Pastrana	New York	Male	69,090	9/1/11	TRUE		
+Margaret Sirois	California	Female	50,597	9/7/11	FALSE		
+William Patterson	New York	Male	30,582	9/15/11	FALSE		
+Morgan Houchens	Washington	Female	54,828	10/3/11	FALSE		
+Stephen Foster	New York	Male	82,545	10/9/11	TRUE		
+Austin Stone	California	Male	81,891	12/6/11	TRUE		
+Filomena Jordan	Massachusetts	Female	48,789	12/14/11	FALSE		
+Elmer Clifton	Arizona	Male	48,509	12/16/11	FALSE		
+Larry Kiel	Massachusetts	Male	41,984	12/19/11	FALSE		
+Heather Lichtenstein	Washington	Female	22,363	1/17/12	FALSE		
+John Vaughan	Washington	Male	64,535	2/9/12	TRUE		
+Lupe Spicer	New York	Female	39,463	2/9/12	FALSE		
+Elizabeth Cole	Washington	Female	50,111	3/15/12	FALSE		
+Jennifer Brown	New York	Female	43,132	4/11/12	FALSE		
+Thomas E. Abbott	California	Male	39,854	4/25/12	FALSE		
+Jonathan J. Conte	Massachusetts	Male	30,437	5/12/12	FALSE		
+Kenny H. Mcqueen	California	Male	65,177	5/14/12	TRUE		
+Robert H. Miller	Massachusetts	Male	33,598	5/27/12	FALSE		
+Madge Jackson	New York	Female	26,589	5/30/12	FALSE		
+Jaime Williamson	Washington	Male	23,619	6/27/12	FALSE		
+Terry Rasmussen	California	Male	44,022	7/7/12	FALSE		
+Samuel Mcdonald	New York	Male	41,856	7/17/12	FALSE		
+Joseph Ramos	Massachusetts	Male	52,303	7/18/12	FALSE		
+Frank Austin	New York	Male	46,412	7/30/12	FALSE		
+Mary Brinkmann	New York	Female	45,452	7/30/12	FALSE		
