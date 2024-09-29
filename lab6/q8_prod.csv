@@ -28,3 +28,24 @@ ProductID,ProductName,Category,Price
 27,Air Conditioner,Home Appliances,299.99
 28,Electric Kettle,Home Appliances,39.99
 29,Vacuum Cleaner,Home Appliances,149.99
+30,Portable Speaker,Electronics,59.99
+31,Game Console,Electronics,399.99
+32,Wireless Router,Electronics,89.99
+33,HDMI Cable,Accessories,15.99
+34,Wall Art,Home Decor,45.99
+35,Scented Candles,Home Decor,19.99
+36,Guitar,Musical Instruments,199.99
+37,Drone,Electronics,499.99
+38,Fitness Tracker,Electronics,99.99
+39,Yoga Mat,Fitness,29.99
+40,Digital Camera,Electronics,699.99
+41,Projector,Electronics,299.99
+42,Smart TV,Electronics,799.99
+43,Electric Toothbrush,Health & Beauty,49.99
+44,Skin Care Set,Health & Beauty,99.99
+45,Hair Dryer,Health & Beauty,39.99
+46,Makeup Set,Health & Beauty,29.99
+47,Fishing Rod,Sports,59.99
+48,Tent,Outdoor,199.99
+49,Camping Stove,Outdoor,49.99
+50,Flashlight,Outdoor,19.99
