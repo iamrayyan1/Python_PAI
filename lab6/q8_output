@@ -1,0 +1,104 @@
+First 5 rows of Products and Orders..
+
+   Order ID  ProductID  Quantity  Order Date
+0         1          1         2  01-15-2023
+1         2          2         5  01-15-2023
+2         3          3         1  01-16-2023
+3         4          4         3  01-16-2023
+4         5          5         4  01-17-2023
+
+
+   ProductID     ProductName     Category   Price
+0          1  Wireless Mouse  Electronics   25.99
+1          2     USB-C Cable  Accessories    9.99
+2          3    Office Chair    Furniture  149.99
+3          4         Monitor  Electronics  199.99
+4          5       Desk Lamp   Home Decor   45.99
+
+
+Last 10 rows of Products and Orders..
+
+    Order ID  ProductID  Quantity  Order Date
+40        41         39         1  02-03-2023
+41        42         40         1  02-03-2023
+42        43         41         1  02-04-2023
+43        44         42         1  02-04-2023
+44        45         43         1  02-05-2023
+45        46         44         2  02-05-2023
+46        47         45         1  02-06-2023
+47        48         46         3  02-06-2023
+48        49         47         2  02-07-2023
+49        50         48         2  02-07-2023
+
+
+    ProductID          ProductName         Category   Price
+40         41            Projector      Electronics  299.99
+41         42             Smart TV      Electronics  799.99
+42         43  Electric Toothbrush  Health & Beauty   49.99
+43         44        Skin Care Set  Health & Beauty   99.99
+44         45           Hair Dryer  Health & Beauty   39.99
+45         46           Makeup Set  Health & Beauty   29.99
+46         47          Fishing Rod           Sports   59.99
+47         48                 Tent          Outdoor  199.99
+48         49        Camping Stove          Outdoor   49.99
+49         50           Flashlight          Outdoor   19.99
+
+Total Revenue of all products is:  10842.04
+
+The top 5 best selling products are:     ProductID      ProductName  Quantity
+1           2      USB-C Cable         7
+7           8          Notepad         5
+18         19      Phone Stand         4
+4           5        Desk Lamp         4
+14         15  Smartphone Case         4
+
+The top 5 worst selling products are:     ProductID      ProductName  Quantity
+13         14        Air Fryer         1
+26         27  Air Conditioner         1
+25         26        Patio Set         1
+23         24       Dishwasher         1
+24         25       Lawn Mower         1
+
+The most common among best selling is: Accessories
+
+The average price of all products is: Category
+Accessories             21.823333
+Electronics            245.990000
+Fitness                 29.990000
+Furniture               92.490000
+Health & Beauty         54.990000
+Home & Kitchen          83.990000
+Home Appliances        247.490000
+Home Decor              32.590000
+Musical Instruments    199.990000
+Outdoor                223.990000
+Sports                  59.990000
+Stationery               5.990000
+Name: Price, dtype: float64
+
+The day with the highest total revenue is: Day 4.0 with revenue 1099.98
+
+The month with the highest total revenue is: Month 1.0 with revenue 6572.26
+
+The year with the highest total revenue is: Year 2023.0 with revenue 10842.04
+
+Total revenue for months:
+   Month  Total Rev
+0      1    6572.26
+1      2    4269.78
+
+Null values in each column:
+Order ID       0
+ProductID      0
+Quantity       0
+Order Date     0
+ProductName    0
+Category       0
+Price          0
+Revenue        0
+Day            0
+Month          0
+Year           0
+dtype: int64
+
+No invalid entries found in Quantity and Price.
